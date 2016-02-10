@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SAM CABAN DOT COM]]></title>
+        <description><![CDATA[SAM CABAN DOT COM]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 20:03:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test Page # 1 SCDC</p>]]></description>
+            <link>undefined9b0cd493-2e2e-48f2-8a1c-c3f55e8c0688/index.html</link>
+            <guid isPermaLink="false">9b0cd493-2e2e-48f2-8a1c-c3f55e8c0688</guid>
+            <pubDate>Wed, 10 Feb 2016 20:02:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
