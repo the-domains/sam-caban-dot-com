@@ -1,0 +1,28 @@
+name: SAM CABAN DOT COM
+favicon: null
+layout_spectrum: 0.6598758569452912
+typography_spectrum: 0.7778746814001352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ecb71b'
+    - '#210b00'
+    - '#473501'
+    - '#8a6809'
+    - '#a0852f'
+  brandStrength: 0.8125
+  lightness: 0.26418102579191327
+  saturation: 0.2958651736844331
+  rhythmicContrast: 0.1893405499868095
+purpose: []
