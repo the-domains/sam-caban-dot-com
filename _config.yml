@@ -1,7 +1,8 @@
 name: SAM CABAN DOT COM
 favicon: null
-layout_spectrum: 0.6598758569452912
-typography_spectrum: 0.7778746814001352
+layout_spectrum: 1
+typography_spectrum: 0.19397
+title: 'SAM CABAN DOT COM #getoutwhileyoucan'
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.06633227854035795
-  lightness: 0.26418102579191327
-  saturation: 0.2958651736844331
-  rhythmicContrast: 0.1893405499868095
+    - '#ecb71b'
+    - '#210b00'
+    - '#473501'
+    - '#8a6809'
+    - '#a0852f'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
