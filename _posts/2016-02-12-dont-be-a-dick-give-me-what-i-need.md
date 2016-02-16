@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: "The universe will make you feel better even when you don't see it coming."
-datePublished: '2016-02-12T00:54:11.488Z'
-dateModified: '2016-02-12T00:53:55.996Z'
-title: "DON'T BE A DICK. GIVE ME WHAT I NEED. "
+description: ':)'
+datePublished: '2016-02-16T03:35:28.305Z'
+dateModified: '2016-02-16T03:35:17.893Z'
+title: "THAT'S ALL"
 author: []
 authors: []
 publisher:
@@ -22,32 +22,22 @@ url: dont-be-a-dick-give-me-what-i-need/index.html
 _type: Article
 
 ---
-The LAW OF ATTRACTION WORKS EVEN WHEN YOU'RE NOT THINKING ABOUT IT.
+I PRETTY MUCH TEACH YOU THE LAW OF ATTRACTION **FOR FREE** HERE & AT [**SAM CABAN DOT COM**][0] ALL THE TIME. BUT IF YOU WANT, I'M CURRENTLY WRITING A BOOK THAT WILL SELL ON **[AMAZON][1]** CALLED "YOU SUCK AT THE LAW OF ATTRACTION".
 
-I was driving around today on the way to MMA class and lost track of where I was supposed to jump off the free way. I then decided that there was a good reason that it happened. 
+I'M ALSO GOING TO MAKE **[UDEMY][2]** COURSES FOR CHEAP AS HELL AND JUST LIVE MY LIFE.
 
-As I was cruising around I could see myself getting a bit annoyed with drivers around me. I could feel tension as one asshole after the next started tailing me and I was responding to the shitty energy. I tried to visualize more positive things. 
+# THAT'S ALL
 
-At some point I simply decided that I needed to turn around and go home. I felt spent even though my day went very well. 
+So anyways, I think my book is going to kick ass. Not because I think you'll buy it, but because I think people that are into LOA are always into the next NEW LOA thing.  What they don't know is that I'm only doing this to reach out to people that don't know about LOA. We're all trying to reach enlightenment. It's kind of hard to hit the next level as a human race if we talk about LOA like it's not common knowledge or constantly praise LOA celebrities like Abraham Hicks or Rhonda Byrne. 
 
-Red light.
+I don't even want to be a GURU. Don't invite me to a seminar. DON'T ASK. You can send money, but I'm not coming. That's it. The point is that you need to see success for yourself. If I take more money than I need from a bunch of suckers, I know I'm not helping the world. But if I fill a need, which in this case is that LOA has to reach a NEW GENERATION of people, and I get paid fairly for it, I'm good to go. I can just sit back and enjoy all the fucking success stories from great students. The students become teachers. Is World Peace and a resource based economy a lofty goal?
 
-I stop. 
+I'm in my new home eating a pizza since it's my cheat day and I want to stay ripped so I can only have it on Sunday's.  I usually eat pizza in my four door, yellow Jeep Wrangler XL and drop sauce all over the seats. This time I'm inside. I'm watching my favorite video of myself kick someone's ass in a point fighting tournament. My trophy is also watching. He makes a great TV watching buddy. 
 
-A public bus cruises by with a sign saying, 
-> 
-> "Get what you want. Not what you don't want."
+Bye for NOW!
 
-I remember that everything that's happening is only happening because I'm getting something I want. 
+Yup. :) 
 
-I come to realize that from all my busy work that I'm tired and aching. So I take a bath with epson salts in hot water, eliminating all the tension from my body. This tension is what has been blocking my ability to stay positive in the moment. 
-
-## Somehow, my subconscious had brought me to a point of UNAVOIDABLE RELAXATION AND RELIEF. 
-
-My throat had also been hoarse from yelling at students in workout bootcamps to keep them motivated. I had a small cup of ice cream to soothe my throat. I also took a nap. My day immediately improved. 
-
-LOA is a constant living organism that responds to what you feel and how you think. If the world knows you are in need of rest, it will create a situation that will deliver you rest. If it sees you need money, it delivers. If it sees you need friends, it delivers.
-
-Your job is to KNOW IT DELIVERS and have the BALLS to RECEIVE EVERY FREE GIFT IT GIVES. 
-
-Can you at least do THAT?
+[0]: www.samcaban.com
+[1]: WWW.AMAZON.COM
+[2]: www.udemy.com
